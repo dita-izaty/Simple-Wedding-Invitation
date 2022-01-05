@@ -30,7 +30,7 @@ function Card() {
                 <audio className='object-center mx-auto mt-1 mb-7' autoPlay='true' src={meant2be} controls>
                     <p>If you are reading this, it is because your browser does not support the audio element.</p>
                 </audio>
-                <footer className='text-black mt-5'>
+                <footer className='text-white mt-5 opacity-25'>
                     Made with 💙 by
                     <a href='mailto:me.izatyproject@gmail.com' className='text-black text-underline-offset-4 hover:text-red-800'> Dita Izaty </a>
                     <p className=''>
