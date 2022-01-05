@@ -32,7 +32,7 @@ function Card() {
                 </audio>
                 <footer className='text-black mt-5 opacity-5'>
                     Made with 💙 by
-                    <a href='mailto:me.izatyproject@gmail.com' className='text-white text-underline-offset-4 hover:text-regal-blue'> Dita Izaty </a>
+                    <a href='mailto:me.izatyproject@gmail.com' className='text-black text-underline-offset-4 hover:text-white'> Dita Izaty </a>
                     <p className=''>
                         <img className='w-12 mx-auto justify-center' src={logodir} alt = 'logo dir'/>
                     </p>
