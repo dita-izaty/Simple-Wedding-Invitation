@@ -15,7 +15,7 @@ function Card() {
                         We Invite You To Celeberate Our Wedding
                     </span>
                     
-                    <p className='text-xl sm:text-2xl mt-3 mb-3 bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500 font-extrabold'>
+                    <p className='text-xl md:text-2xl mt-3 mb-3 bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500 font-extrabold'>
                         Ida & Oki
                     </p>
                     <div className='flex align-center just-center mt-3'></div>
@@ -30,9 +30,9 @@ function Card() {
                 <audio className='object-center mx-auto mt-1 mb-7' autoPlay='true' src={meant2be} controls>
                     <p>If you are reading this, it is because your browser does not support the audio element.</p>
                 </audio>
-                <footer className='text-black mt-5'>
+                <footer className='text-stone-300 mt-5'>
                     Made with 💙 by
-                    <a href='mailto:me.izatyproject@gmail.com' className='text-black text-underline-offset-4 hover:text-red-800'> Dita Izaty </a>
+                    <a href='mailto:me.izatyproject@gmail.com' className='text-stone-300 underline decoration-orange-800 hover:text-brown-300'> Dita Izaty </a>
                     <p className=''>
                         <img className='w-12 mx-auto justify-center' src={logodir} alt = 'logo dir'/>
                     </p>
