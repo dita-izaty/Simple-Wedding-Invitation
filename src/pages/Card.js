@@ -31,7 +31,7 @@ function Card() {
                     <p>If you are reading this, it is because your browser does not support the audio element.</p>
                 </audio>
                 <footer className='text-stone-300 mt-5'>
-                    Made with 💙 by
+                    Built with 💙 by
                     <a href='mailto:me.izatyproject@gmail.com' className='text-stone-300 underline decoration-orange-800 hover:text-brown-300'> Dita Izaty </a>
                     <p className=''>
                         <img className='w-12 mx-auto justify-center' src={logodir} alt = 'logo dir'/>

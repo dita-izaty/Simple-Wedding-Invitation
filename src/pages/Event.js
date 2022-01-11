@@ -39,7 +39,7 @@ function Event() {
 
             <iframe className='object-center mt-2 mb-7 mx-auto' title="Maps" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15864.323865878598!2d106.9348696!3d-6.2530626!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc588a3f42051a738!2sMusholla%20Baitul%20Muslimin!5e0!3m2!1sid!2sid!4v1640892514883!5m2!1sid!2sid" width="360" height="360" allowfullscreen="" loading="lazy"></iframe>
 
-            <div className='text-md text-center mt-3 mb-7 font-normal text-brown-250 leading-relaxed break-words'>
+            <div className='text-md text-center mt-3 mb-7 font-normal text-brown-250 leading-relaxed'>
                 Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila
                 <p>Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan </p><p>do'a restu kepada putra putri kami</p>
             </div>

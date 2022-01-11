@@ -3,7 +3,7 @@ import Avatar from 'avataaars'
 
 function Couple() {
     return (
-        <div className='min-h-screen py-10 px-3'> 
+        <div className='min-h-screen py-16 px-3'> 
 
             <div class="text-md font-normal text-center">
                 <span class="bg-clip-text mt-2 font-bold text-transparent bg-gradient-to-r from-pink-500 to-violet-500">
