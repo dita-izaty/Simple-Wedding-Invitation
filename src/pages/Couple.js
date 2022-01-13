@@ -5,12 +5,12 @@ function Couple() {
     return (
         <div className='min-h-screen py-16 px-3'> 
 
-            <div class="text-md font-normal text-center">
-                <span class="bg-clip-text mt-2 font-bold text-transparent bg-gradient-to-r from-pink-500 to-violet-500">
+            <div className='text-md font-normal text-center'>
+                <span className='bg-clip-text mt-2 font-bold text-transparent bg-gradient-to-r from-pink-500 to-violet-500'>
                     بِسمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
                 </span>
 
-                <p class="bg-clip-text mt-4 font-medium text-transparent bg-gradient-to-r from-violet-500 to-white">
+                <p className='bg-clip-text mt-4 font-medium text-transparent bg-gradient-to-r from-violet-500 to-white'>
                     Assalamu'alaikum wr.wb
                 </p>
             </div>
@@ -33,19 +33,19 @@ function Couple() {
                 />
             </div>
                 
-            <div class="text-xl font-extrabold text-center">
-                <span class="bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500">
+            <div className='text-xl font-extrabold text-center'>
+                <span className='bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500'>
                     Ria Rosyida, Amd.Keb
-                    <p class="bg-clip-text text-md-24 mt-1 font-bold italic text-transparent bg-gradient-to-r from-brown-200 to-pink-400">  (Ida)
+                    <p className='bg-clip-text text-md-24 mt-1 font-bold italic text-transparent bg-gradient-to-r from-brown-200 to-pink-400'>  (Ida)
                     </p>
                 </span>
-                <p class="text-sm mt-2 font-normal italic bg-clip-text text-transparent bg-gradient-to-r from-white to-violet-500">
+                <p className='text-sm mt-2 font-normal italic bg-clip-text text-transparent bg-gradient-to-r from-white to-violet-500'>
                     Putri dari Bapak Pudji Harjono & Ibu Sugiyem
                 </p>
             </div>
 
-            <div class="text-2xl font-extrabold text-center mt-9">
-                <span class="bg-clip-text italic text-transparent bg-gradient-to-r from-white to-violet-500">
+            <div className='text-2xl font-extrabold text-center mt-9'>
+                <span className='bg-clip-text italic text-transparent bg-gradient-to-r from-white to-violet-500'>
                    &
                 </span>
             </div>
@@ -64,14 +64,14 @@ function Couple() {
                     skinColor='Light'
                 />
             </div>
-            <div class="text-xl font-extrabold text-center">
-                <span class="bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500">
+            <div className='text-xl font-extrabold text-center'>
+                <span className='bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500'>
                     Rifki Rahafian
-                    <p class="bg-clip-text text-md-24 mt-1 font-semibold italic text-transparent bg-gradient-to-r from-brown-200 to-pink-400">  (Oki)</p>
+                    <p className='bg-clip-text text-md-24 mt-1 font-semibold italic text-transparent bg-gradient-to-r from-brown-200 to-pink-400'>  (Oki)</p>
                 </span>
                 <p></p>
-                <p class="text-sm font-normal mt-2 mb-0 
-                italic bg-clip-text text-transparent bg-gradient-to-r from-white to-violet-500">
+                <p className='text-sm font-normal mt-2 mb-0 
+                italic bg-clip-text text-transparent bg-gradient-to-r from-white to-violet-500'>
                     Putra dari Bapak H. Hafid & Ibu Rasmini
                 </p>
             </div>
