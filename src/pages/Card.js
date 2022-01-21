@@ -30,7 +30,7 @@ function Card() {
                     <p>If you are reading this, it is because your browser does not support the audio element.</p>
                 </audio>
                 
-                <footer className='text-stone-300 mt-5'>
+                <footer className='text-stone-300 mt-5 opacity-70'>
                     Created with 💙 by
                     <a href='mailto:me.izatyproject@gmail.com' className='text-stone-300 underline decoration-orange-800 hover:text-brown-300'> Dita Izaty </a>
                     <p className=''>

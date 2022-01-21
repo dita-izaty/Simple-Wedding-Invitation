@@ -35,7 +35,7 @@ function Couple() {
                 
             <div className='text-xl font-extrabold text-center'>
                 <span className='bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500'>
-                    Ria Rosyida, Amd.Keb
+                    Ria Rosyida
                     <p className='bg-clip-text text-md-24 mt-1 font-bold italic text-transparent bg-gradient-to-r from-brown-200 to-pink-400'>  (Ida)
                     </p>
                 </span>
