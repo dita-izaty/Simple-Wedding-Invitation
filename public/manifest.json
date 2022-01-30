@@ -3,17 +3,17 @@
   "name": "Created with 💙 by DIR",
   "icons": [
     {
-      "src": "favicon-32x32.png",
+      "src": "couple-favi.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logodir.png",
+      "src": "couple-fav.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logodir.png",
+      "src": "couple-fav.png",
       "type": "image/png",
       "sizes": "512x512"
     }
