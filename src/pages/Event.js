@@ -10,7 +10,7 @@ function Event() {
                     Hari, Tanggal :
                 </span>
                 <p className='bg-clip-text font-medium text-transparent bg-gradient-to-r from-white to-violet-500'>
-                    Minggu, 06 Februari 2022
+                    Rabu, 02 Februari 2022
                 </p>
             </div>
 
@@ -30,14 +30,14 @@ function Event() {
                 </span>
                     
                 <p className='bg-clip-text font-medium text-transparent bg-gradient-to-r from-white to-violet-500'>
-                    Masjid Baitul Muslimin
+                    Four Seasons Resort Maldives
                 </p>
                 <p className='text-sm font-normal mt-4 mb-0 italic bg-clip-text text-transparent bg-gradient-to-r from-white to-violet-500'>
-                    Jl. Pondok Kelapa Selatan No. 29 RT.009/RW.05<p>Pondok Kelapa, Kec. Duren Sawit, Jakarta Timur 13450</p>
+                    Landaa Giraavaru, Baa Atoll, Maldives
                 </p>
             </div>
 
-            <iframe className='object-center mt-2 mb-7 mx-auto' title='Maps' src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15864.323865878598!2d106.9348696!3d-6.2530626!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc588a3f42051a738!2sMusholla%20Baitul%20Muslimin!5e0!3m2!1sid!2sid!4v1640892514883!5m2!1sid!2sid' width='360' height='360' allowFullScreen='' loading='lazy'></iframe>
+            <iframe className='object-center mt-2 mb-7 mx-auto' title='Maps' src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.848883621589!2d73.11011231476478!3d5.286263796164946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b4ab4b3175510bf%3A0x101dca2903ab1f9!2sFour%20Seasons%20Resort%20Maldives%20at%20Landaa%20Giraavaru!5e0!3m2!1sen!2sid!4v1664433627611!5m2!1sen!2sid' width='360' height='360' allowFullScreen='' loading='lazy'></iframe>
 
             <div className='text-md text-center mt-3 mb-7 font-normal text-brown-250 leading-relaxed'>
                 Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan do'a restu kepada putra putri kami
@@ -68,8 +68,8 @@ function Event() {
             <div className='mb-8'>               
                 <p className='bg-clip-text text-md mb-3 font-medium text-transparent bg-gradient-to-r from-white to-violet-400'>Kami yang berbahagia</p>
 
-                <p className='bg-clip-text text-md font-bold text-transparent bg-gradient-to-r from-pink-700 to-white'>Kel. Bpk Pudji Harjono - Ibu Sugiyem
-                    <p>&</p><p>Bpk H. Hafid - Ibu Rasmini</p>
+                <p className='bg-clip-text text-md font-bold text-transparent bg-gradient-to-r from-pink-700 to-white'>Kel. Bpk Akira - Ibu Myoi
+                    <p>&</p><p>Bpk Bbang - Ibu Jessica</p>
                 </p>
             </div>
         </div>

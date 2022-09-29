@@ -35,12 +35,12 @@ function Couple() {
                 
             <div className='text-xl font-extrabold text-center'>
                 <span className='bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500'>
-                    Ria Rosyida
-                    <p className='bg-clip-text text-md-24 mt-1 font-bold italic text-transparent bg-gradient-to-r from-brown-200 to-pink-400'>  (Ida)
+                    Sharon Almeera
+                    <p className='bg-clip-text text-md-24 mt-1 font-bold italic text-transparent bg-gradient-to-r from-brown-200 to-pink-400'>  (Meera)
                     </p>
                 </span>
                 <p className='text-sm mt-2 font-normal italic bg-clip-text text-transparent bg-gradient-to-r from-white to-violet-500'>
-                    Putri dari Bapak Pudji Harjono & Ibu Sugiyem
+                    Putri dari Bapak Akira & Ibu Myoi
                 </p>
             </div>
 
@@ -66,13 +66,13 @@ function Couple() {
             </div>
             <div className='text-xl font-extrabold text-center'>
                 <span className='bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500'>
-                    Rifki Rahafian
-                    <p className='bg-clip-text text-md-24 mt-1 font-semibold italic text-transparent bg-gradient-to-r from-brown-200 to-pink-400'>  (Oki)</p>
+                    Christopher Chakra
+                    <p className='bg-clip-text text-md-24 mt-1 font-semibold italic text-transparent bg-gradient-to-r from-brown-200 to-pink-400'>  (Chakra)</p>
                 </span>
                 <p></p>
                 <p className='text-sm font-normal mt-2 mb-0 
                 italic bg-clip-text text-transparent bg-gradient-to-r from-white to-violet-500'>
-                    Putra dari Bapak H. Hafid & Ibu Rasmini
+                    Putra dari Bapak Bbang & Ibu Jessica
                 </p>
             </div>
         </div>
